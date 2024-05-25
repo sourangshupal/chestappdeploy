@@ -38,11 +38,11 @@ Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/chest-Disease-Classification-MLflow-DVC.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/sourangshu/chestappdeploy.mlflow
 
-export MLFLOW_TRACKING_USERNAME=entbappy 
+export MLFLOW_TRACKING_USERNAME=sourangshu
 
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9353c5b10041d5c8edbcef0
+export MLFLOW_TRACKING_PASSWORD=6851f162162d033650f35488e0ed1c2190e85695
 
 ```
 
